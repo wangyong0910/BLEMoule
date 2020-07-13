@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--头两位是透明度，后6位是RGB值，00是完全透明，FF是完全不透明，比较适中的透明度值是 1e-->
+    <color name="colorPrimary">#FF2777DE</color>
+    <color name="colorPrimaryDark">#FF0F4E8F</color>
+    <color name="colorAccent">#FF2777DE</color>
+    <color name="blueRipple">#FF2777DE</color>
+    <color name="blueRippleDark">#FF0F4E8F</color>
+    <color name="grayRipple">#FFE9E9E9</color>
+    <color name="grayRippleDark">#FF59595C</color>
+    <color name="deBlack">#FF000000</color>
+    <color name="input_txt_color">#FF333333</color>
+    <color name="company_name">#FF222221</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="task_oder_fragment_bg_color">#FFF5F6F7</color>
+</resources>
